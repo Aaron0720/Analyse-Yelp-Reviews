@@ -5,3 +5,4 @@ The first step I create a cluster and a notebook, on AWS EMR and a bucket on AWS
 
 # Cluster and Notebook Configs
 ![Cluster](https://raw.githubusercontent.com/Aaron0720/Analyse-Yelp-Reviews/master/Assets/Cluster.png)
+![Notebook](https://raw.githubusercontent.com/Aaron0720/Analyse-Yelp-Reviews/master/Assets/Notebook.png)
